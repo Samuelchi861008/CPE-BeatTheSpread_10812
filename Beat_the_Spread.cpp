@@ -37,7 +37,7 @@ int main()
                         num_2 = j;
                     }
             if(num_1 >= 0 && num_2 >= 0)
-                cout << num_1 << " " << num_2 << endl; //若皆大於0則輸出
+                cout << num_1 << " " << num_2 << endl; //若皆大於等於0則輸出
             else
                 cout << "impossible" << endl;
         }
